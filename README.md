@@ -1,9 +1,11 @@
 # LabFitnessTracker
 Fitness Tracker Lab 11/10/2026
-## Instuctions
-input wokout details and the code will print a summary
+
+# Instructions
+- Enter 1 to start (any other # to quit)
+- Enter info when prompted (Enter "Run" for workout type)
+- Program will display info and calculate calories burned
 
 ## Code Review
 - **Reviewed by:** Nicholas Cheng
 - **Status:** Checked code. Inheritance (`extends`), Scanner input, and calorie calculations are all correct and working!
-
